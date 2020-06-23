@@ -8,13 +8,14 @@
 
                                             (Clique na imagem para abrir em uma qualidade melhor)
                                             
+  * Para visualizar pelo navegador, utilize o seguinte link: https://app.powerbi.com/view?r=eyJrIjoiNmUxYTVkZDgtNjE5OC00ZTAyLWE5MzMtYTRjOGNlN2ZkMDI4IiwidCI6IjAzZjdkNDdlLWM0ZjMtNDIxNi1iODkzLWM5NTk4YTEwZGZiMyJ9
+                                            
   Dashboard feito para a matéria Laboratório de Banco de Dados da faculdade, onde foi solicitado a criação de um Dashboard sobre os dados da COVID-19 no Brasil utilizando a ferramenta Power BI.
   O Dash foi segmentado em 4 páginas para uma visualização mais ampla: 1 sobre o Brasil, 1 sobre as Regiões, 1 sobre o Estados e 1 sobre os Municípios. Cada 1 deles possuem cards com as informações principais relevantes, e todos possuem pelo menos um gráfico sobre o Total de Casos por mês, o Total de Óbitos por mês e a progressão dos Casos Acumulados, além de um menu lateral para navegar entre as páginas.
   Para as páginas de Região, Estado e Município há filtros relevantes para manipular as informações de acordo com o desejo do usuário.
   
   As informações foram tratadas usando o Power Query.
   
-  * Para visualizar pelo navegador, utilize o seguinte link: https://app.powerbi.com/view?r=eyJrIjoiNmUxYTVkZDgtNjE5OC00ZTAyLWE5MzMtYTRjOGNlN2ZkMDI4IiwidCI6IjAzZjdkNDdlLWM0ZjMtNDIxNi1iODkzLWM5NTk4YTEwZGZiMyJ9
   * Os dados não são atualizados automaticamente, sendo necessário uma atualização manual na parte dos dados.
   
   Fonte: https://covid.saude.gov.br/
