@@ -1,6 +1,6 @@
 ![Imagem 1](https://user-images.githubusercontent.com/65839541/85930026-6d314100-b88f-11ea-8153-f29b2970adf0.png)
 
-![Imagem 2](https://user-images.githubusercontent.com/65839541/85930028-702c3180-b88f-11ea-8e6c-880650f7dd47.png)
+![Imagem 2](https://user-images.githubusercontent.com/65839541/85934444-d6797a00-b8b8-11ea-8a0b-0992b5fd5be1.png)
 
 ![Imagem 3](https://user-images.githubusercontent.com/65839541/85930030-715d5e80-b88f-11ea-8be8-c68b8488666e.png)
 
