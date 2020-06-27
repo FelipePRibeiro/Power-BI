@@ -8,7 +8,7 @@
 
                                             (Clique na imagem para abrir em uma qualidade melhor)
                                             
-  * Para visualizar pelo navegador, utilize o seguinte link: https://app.powerbi.com/view?r=eyJrIjoiZmNkYzEwNGYtOGNmNS00ZTIxLWJlOTgtNGVkNDViZTNhOTcxIiwidCI6IjAzZjdkNDdlLWM0ZjMtNDIxNi1iODkzLWM5NTk4YTEwZGZiMyJ9
+  * Para visualizar pelo navegador, utilize o seguinte link: https://app.powerbi.com/view?r=eyJrIjoiNmIyMjczZjQtZGVkZS00Mzc5LTg0YzItMWFjYzFmMTU0MTg3IiwidCI6IjAzZjdkNDdlLWM0ZjMtNDIxNi1iODkzLWM5NTk4YTEwZGZiMyJ9
   * Dados do dia 25/06/2020
                                             
   Dashboard feito para a matéria Laboratório de Banco de Dados da faculdade, onde foi solicitado a criação de um Dashboard sobre os dados da COVID-19 no Brasil utilizando a ferramenta Power BI.
