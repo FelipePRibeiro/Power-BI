@@ -12,8 +12,7 @@
   * Dados do dia 25/06/2020
                                             
   Dashboard feito para a matéria Laboratório de Banco de Dados da faculdade, onde foi solicitado a criação de um Dashboard sobre os dados da COVID-19 no Brasil utilizando a ferramenta Power BI.
-  O Dash foi segmentado em 4 páginas para uma visualização mais ampla: 1 sobre o Brasil, 1 sobre as Regiões, 1 sobre o Estados e 1 sobre os Municípios. Cada 1 deles possuem cards com as informações principais relevantes, e todos possuem pelo menos um gráfico sobre o Total de Casos por mês, o Total de Óbitos por mês e a progressão dos Casos Acumulados, além de um menu lateral para navegar entre as páginas.
-  Para as páginas de Região, Estado e Município há filtros relevantes para manipular as informações de acordo com o desejo do usuário.
+  O Dash foi segmentado em 4 páginas para uma visualização mais ampla: 1 sobre o Brasil, 1 sobre as Regiões, 1 sobre o Estados e 1 sobre os Municípios.
   
   As informações foram tratadas usando o Power Query.
   
