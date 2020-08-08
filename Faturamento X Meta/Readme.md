@@ -8,7 +8,7 @@
 
 
     Dashboard de uma situação de Vendas x Faturamento da empresa fictícia Adventure Works, onde é possível acompanhar o faturamento e a meta anual da empresa, além de uma visão dos custos gerados e o lucro da empresa, e o faturamento distribuídos pelos produtos da empresa.
-    Os dados foram obtidos utilizando Views no SQL Server para ter acesso ao Banco OLTP da Empresa, onde foi feito uma pequena modelagem Star Schema dos mesmos, e criado a dimensão calendário dentro do Power Bi, utilizando o Power Query.
+    Os dados foram obtidos utilizando Views no SQL Server para ter acesso ao Banco OLTP da Empresa, onde foi feito uma pequena modelagem Star Schema dos mesmos, e criada a dimensão calendário dentro do Power Bi, utilizando o Power Query.
     
     * O banco de dados utilizado pode ser obtido aqui: https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
     * A meta foi obtida em um arquivo CSV, disponibilizado por Leonardo Karpinski em um Workshop realizado por ele, onde os anos da meta tiveram que ser adaptado pois o dataset utilizado por ele foi outro.
